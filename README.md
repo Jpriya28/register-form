@@ -3,37 +3,37 @@ This project involves creating a fully functional registration form using HTML, 
 
 Features
 
-Form Fields:
+>>Form Fields:
 
-Name: A text input field for the user's name.
+**Name: A text input field for the user's name.
 
-Email: An input field for the user's email address.
+**Email: An input field for the user's email address.
 
-Password: A password input field with a minimum length validation.
+**Password: A password input field with a minimum length validation.
 
-Form Validation:
+>>Form Validation:
 
-Name field validation to ensure it is not left empty.
+**Name field validation to ensure it is not left empty.
 
-Email validation to check for a valid email format.
+**Email validation to check for a valid email format.
 
-Password validation to ensure a minimum length of 6 characters.
+**Password validation to ensure a minimum length of 6 characters.
 
-Real-Time Feedback:
+>>Real-Time Feedback:
 
-Display error messages below fields when validation fails.
+**Display error messages below fields when validation fails.
 
-Disable the submit button until all fields are correctly filled.
+**Disable the submit button until all fields are correctly filled.
 
-Responsive Design:
+>>Responsive Design:
 
-Styled using CSS to make the form responsive and visually appealing on all screen sizes.
+**Styled using CSS to make the form responsive and visually appealing on all screen sizes.
 
-Interactive Functionality:
+>>Interactive Functionality:
 
-JavaScript is used to add interactivity, validate inputs in real time, and enhance the user experience.
+**JavaScript is used to add interactivity, validate inputs in real time, and enhance the user experience.
 
-Technologies Used
+>>Technologies Used
 
 HTML: To create the structure of the form.
 
